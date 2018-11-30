@@ -1,2 +1,8 @@
-# practice_python3
-learning and practice python 3
+# Python3练习
+- 购物车
+- excel to txt
+# 连接mysql数据库
+code:practice_mysql.py
+
+
+
